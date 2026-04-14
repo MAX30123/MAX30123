@@ -49,7 +49,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MAX30123&theme=nord" height="250" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MAX30123&theme=nord" height="200" alt="activity-graph graph"  />
 </div>
 
 ###
