@@ -44,7 +44,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExenZ0a29yNHF0MXUzMDhjNXQ3OThlN3F4M281Z2xvN3RicDlpemprbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uSoDr54W9M3uSBiTST/giphy.gif"  />
+<img align="right" height="150" src="https://tenor.com/ru/view/rei-chiquita-gif-21470058"  />
 
 ###
 
