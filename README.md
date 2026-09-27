@@ -44,12 +44,8 @@
 
 ###
 
-<img align="right" height="150" src="https://tenor.com/ru/view/rei-chiquita-gif-21470058"  />
-
 ###
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MAX30123&theme=nord" height="200" alt="activity-graph graph"  />
-</div>
+<div class="tenor-gif-embed" data-postid="21470058" data-share-method="host" data-aspect-ratio="1.09966" data-width="100%"><a href="https://tenor.com/view/rei-chiquita-gif-21470058">Rei Chiquita Sticker</a>from <a href="https://tenor.com/search/rei+chiquita-stickers">Rei Chiquita Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 ###
