@@ -43,9 +43,6 @@
 </div>
 
 ###
-
-###
-
-<div class="tenor-gif-embed" data-postid="21470058" data-share-method="host" data-aspect-ratio="1.09966" data-width="100%"><a href="https://tenor.com/view/rei-chiquita-gif-21470058">Rei Chiquita Sticker</a>from <a href="https://tenor.com/search/rei+chiquita-stickers">Rei Chiquita Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-
-###
+<div align="center">
+  <img src="https://www.image2url.com/r2/default/gifs/1790543851088-bf1f37f5-c854-4537-9d99-2794350e4e7f.gif" height="200" alt=""  />
+</div>
