@@ -6,7 +6,7 @@
 
 ###
 
-<h4 align="center">I’m a 14-year-old programmer from Israel with a passion for robotics and software architecture. As the Software Team Leader for my FTC team, I specialize in Java and Python, particularly in developing autonomous systems.<br><br>I've built everything from Jarvis-inspired assistants to video streaming platforms. Right now, I’m diving deep into new libraries and SDKs to take my projects to the next level. Always open to learning and improving!</h4>
+<h4 align="center">I’m a 15-year-old programmer from Israel with a passion for robotics and software architecture. As the Software Team Leader for my FTC team, I specialize in Java and Python, particularly in developing autonomous systems.<br><br>I've built everything from Jarvis-inspired assistants to video streaming platforms. Right now, I’m diving deep into new libraries and SDKs to take my projects to the next level. Always open to learning and improving!</h4>
 
 ###
 
